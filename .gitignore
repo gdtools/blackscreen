@@ -1,0 +1,9 @@
+# 编译产物：一律由 GitHub Actions 生成并发布到 Release
+*.exe
+*.exe.sha256
+*.o
+*.obj
+*.pdb
+
+# 本地工具数据
+.workbuddy/
